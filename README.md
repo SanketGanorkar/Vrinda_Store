@@ -1,1 +1,2 @@
 # Vrinda_Store
+In this project, I worked with a dataset containing various columns such as Order ID, Customer ID, Gender, Age, Date, and more. Using my knowledge of Excel, I created visually appealing dashboards by leveraging tools like pivot tables, pie charts, and filters. These dashboards provided insightful visualizations of the data, allowing for easier analysis of order trends, customer demographics, and other key metrics. I'm proud of the visually attractive and informative dashboard I was able to create using Excel's features.
