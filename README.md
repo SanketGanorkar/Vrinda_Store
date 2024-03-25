@@ -38,3 +38,5 @@ The dashboard may include interactive elements like filters that allow users to 
 This project demonstrates my proficiency in:
   1) Microsoft Excel: Utilizing advanced features like pivot tables, charts, and filters to create impactful data visualizations.
   2) Data Presentation: Communicating complex information through clear and visually engaging dashboards.
+
+![Project outcome ](https://github.com/SanketGanorkar/Vrinda_Store/blob/main/Vrinda%20sales.png)
