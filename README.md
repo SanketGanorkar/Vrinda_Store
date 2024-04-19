@@ -54,4 +54,12 @@ This project demonstrates my proficiency in:
   1) Microsoft Excel: Utilizing advanced features like pivot tables, charts, and filters to create impactful data visualizations.
   2) Data Presentation: Communicating complex information through clear and visually engaging dashboards.
 
+# Sample Insights :-
+- Women are more likely to buy compared to men ( ~ 65% )
+- Maharashtra , Karnataka & Uttar Pradesh are the top 3 states ( ~ 35% )
+- Adult age group ( 30 - 49 years ) is maximum contributing ( ~ 50% )
+- Amazon , Flipkart & Myntra channels are maximum contributing ( ~ 80% )
+
+# Final Conclusion to improve store sales :-
+ Target women customers of agr group ( 30 - 49 years ) living in Maharashtra , Karnataka & Uttar Pradesh by showing advertisements/offers/coupons available on Amazon , Flipkart & Myntra.
 ![Project outcome ](https://github.com/SanketGanorkar/Vrinda_Store/blob/main/Vrinda%20sales.png)
