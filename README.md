@@ -1,4 +1,6 @@
-    # Vrinda Store Analysis
+<div align="center">
+  <h1>Vrinda Store Analysis</h1>
+</div>
 
 # Objective :- 
 Vrinda store wants to create an annual sales report for 2023. So that , they can understand their customersand grow more sales in 2024.
