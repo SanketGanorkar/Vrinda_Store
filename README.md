@@ -1,4 +1,9 @@
-# Vrinda Store Analysis
+    # Vrinda Store Analysis
+
+# Objective :- 
+Vrinda store wants to create an annual sales report for 2023. So that , they can understand their customersand grow more sales in 2024.
+
+# About this project :-
 This project showcases a data visualization dashboard created using Microsoft Excel. 
 The dashboard analyzes a dataset containing information about orders, including:
 
@@ -33,7 +38,15 @@ The dashboard analyzes a dataset containing information about orders, including:
 # User Interaction:
 The dashboard may include interactive elements like filters that allow users to explore specific data subsets. This functionality empowers users to focus on areas of particular interest, facilitating deeper analysis.
 
-
+# Work done :-
+- Data cleaning , data processing , data analysis , data visualization and gathering insights.
+- Issue in Gender column - 4 categories ( Male , Female , M , F )
+- Issue in Size column - ( 1 , 2 , 3 , 4 , 5 , One , Two )
+- Created a new column ( Age group , for categorizing the age groups )
+- Formula used for the above column - IF( E2 >= 50 , "Senior" , IF(E2 >= 30 , "Adult" , "Teenager") )
+- Formula used for extracting the month from date - TEXT( (G2), mmm)
+- In the pivot table we were having large values , so to increase the readability , we convert it into millions ( M ).
+  (0.00 ,, "M") [ 0.00 , for getting the value upto 2 decimal places ]
 # My Skills:
 This project demonstrates my proficiency in:
   1) Microsoft Excel: Utilizing advanced features like pivot tables, charts, and filters to create impactful data visualizations.
